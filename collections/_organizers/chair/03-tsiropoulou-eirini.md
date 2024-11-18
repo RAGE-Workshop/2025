@@ -1,0 +1,11 @@
+---
+slug: tsiropoulou
+name: Eirini Eleni Tsiropoulou
+role: Technical Program Committee Co-Chair 
+affiliation: Arizona State University, ASU
+email: eirini@asu.edu
+webpage: https://ece-research.unm.edu/tsiropoulou/Home.html
+pic: assets/data/organizers/telini.jpg
+bio: >-
+    Dr. Eirini Eleni Tsiropoulou (IEEE Senior Member) is an Associate Professor at the School of Electrical, Computer and Energy Engineering, Ira A. Fulton Schools of Engineering, Arizona State University. She obtained her Diploma in Electrical and Computer Engineering from National Technical University of Athens in 2008 and her MBA in techno- economics from the same institute in 2010. She graduated with a Ph.D in Electrical and Computer Engineering from National Technical University of Athens in 2014. Her main research interests lie in the area of cyber-physical systems and wireless heterogeneous networks, with emphasis on network modeling and optimization, resource orchestration in interdependent systems, reinforcement learning, game theory, network economics, and Internet of Things. Five of her papers received the Best Paper Award at IEEE WCNC in 2012, ADHOCNETS in 2015, IEEE/IFIP WMNC 2019, INFOCOM 2019 by the IEEE ComSoc Technical Committee on Communications Systems Integration and Modeling, and IEEE/ACM BRAINS 2020. She was selected by the IEEE Communication Society - N2Women - as one of the top ten Rising Stars of 2017 in the communications and networking field. She received the NSF CRII Award in 2019, the Early Career Award from the IEEE Communications Society Internet Technical Committee in 2019, the Junior Faculty Teaching Excellence Award, Dean's Excellence Award, and Research and Creative Works Leader Award, School of Engineering, University of New Mexico in 2018, 2021, and 2023, respectively. She is an Associate Editor for IEEE Transactions on Green Communications and Networking, IEEE Transactions on Machine Learning in Communications and Networking, IEEE Networking Letters, IEEE Transactions on Network Science and Engineering, IEEE IT Professional, IEEE Vehicular Technology Magazine, IEEE Transactions on Consumer Electronics, and IEEE/ACM Transactions on Networking. Dr. Tsiropoulou is a Co-Chair of the N2 Women discipline-specific community.
+---
