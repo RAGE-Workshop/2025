@@ -2,7 +2,7 @@
 slug: gaitan
 name: Miguel Gutiérrez Gaitán 
 role: Technical Program Committee Co-Chair 
-affiliation: Pontifical Catholic University of Chile
+affiliation: Pontificia Universidad Católica de Chile
 email: miguel.gutierrez@uc.cl
 webpage: http://www.cister.isep.ipp.pt/people/miguel_gutierrez_gaitan/
 pic: assets/data/organizers/gaitan.jpg
