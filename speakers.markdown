@@ -9,6 +9,7 @@ permalink: /speakers/
         <h2 class="section-heading">{{ page.title }}</h2>
     </div>
 </div>
+<br/>
 
 {% for person in site.speakers %}
 <div class="row" id="speakers">
