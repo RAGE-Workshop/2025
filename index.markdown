@@ -2,7 +2,7 @@
 layout: home
 year: 2025
 date: "May 6th, 2025"
-deadline: "January 20th, 2025, Anywhere on Earth"
+deadline: "January 25th, 2025, Anywhere on Earth"
 notification: "March 1st, 2025, end of the day"
 camera-ready: "March 15th, 2025, Anywhere on Earth"
 location: "Irvine, CA, USA"
