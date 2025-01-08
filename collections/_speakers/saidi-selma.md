@@ -1,0 +1,8 @@
+---
+name: Prof. Selma Saidi
+affiliation: TU Braunschweig, Germany
+webpage: https://www.ida.ing.tu-bs.de/en/team/saidi
+pic: assets/data/speakers/saidi.jpg
+bio: >-
+    "Prof. Selma Saidi is a full professor in the field of computer engineering at TU Braunschweig, one of Germany's leading universities renowned for excellence in engineering. She is the head of the Institute of Computer and Network Engineering (IDA). She holds a PhD in Computer Engineering from the University of Joseph Fourier in Grenoble, France. She conducted her PhD between VERIMAG and the Advanced System Technology Computing R&D department at STMicroelectronics, one of the top semiconductor manufacturers in Europe and in the world. VERIMAG is an internationally leading research institute in formal methods for designing reliable embedded computer systems. The institute was founded by Turing prize winner Joseph Sifakis. For more than 10 years she have been involved in various disciplines of development, implementation, and validation/verification of computer systems. Her research focus has been on the design, implementation, and validation of innovative intelligent computing systems where connectivity, real-time, and safety requirements play an important role. She focuses on the development of novel hardware and software design methods for networked and collaborative embedded and autonomous systems with performance, predictability, and self-adaptability requirements. The results and findings of her research activities have been published in outstanding conferences and journals in the field of hardware and software design and verification, e.g., RTSS, DAC, DATE, ICCAD, IEEE Design and Test Magazine, and ACM Transactions Journal on Embedded Computing Systems."
+---
