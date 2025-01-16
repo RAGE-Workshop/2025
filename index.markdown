@@ -8,7 +8,7 @@ camera-ready: "March 15th, 2025, Anywhere on Earth"
 location: "Irvine, CA, USA"
 cover: /assets/img/irvine-cover.jpg
 caption: The 4th Real-time And intelliGent Edge computing workshop
-#submission: https://easychair.org/conferences/?conf=rage2025
+submission: https://easychair.org/conferences/?conf=rage2025
 hosted: CPS-IoT Week 2025
 hosted-url: https://cps-iot-week2025.ics.uci.edu
 ---
