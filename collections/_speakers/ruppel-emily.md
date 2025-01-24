@@ -1,5 +1,5 @@
 ---
-name: Emily Ruppel
+name: Dr. Emily Ruppel
 affiliation: Bosch Research & Technology Center, PA, USA
 webpage: https://www.linkedin.com/in/eruppel/
 pic: assets/data/speakers/ruppel.png
