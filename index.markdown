@@ -2,7 +2,7 @@
 layout: home
 year: 2025
 date: "May 6th, 2025"
-deadline: "January 25th, 2025, Anywhere on Earth"
+deadline: "<s>January 25th</s> <b>February 10th</b>, 2025, Anywhere on Earth"
 notification: "March 1st, 2025, end of the day"
 camera-ready: "March 15th, 2025, Anywhere on Earth"
 location: "Irvine, CA, USA"
@@ -12,6 +12,12 @@ submission: https://easychair.org/conferences/?conf=rage2025
 hosted: CPS-IoT Week 2025
 hosted-url: https://cps-iot-week2025.ics.uci.edu
 ---
+
+## Announcement
+
+<b style="color: red;">The deadline for submission was extended to February 10th.</b>
+
+## Call for papers
 
 The edge computing paradigm is becoming increasingly popular as it facilitates real-time computation, reduces energy consumption and carbon footprint, and fosters security and privacy preservation by processing the data closer to its origin, thereby drastically reducing the amount of data sent to the cloud. On the application side, there is a growing interest in using edge computing as a key pillar to support decentralized artificial intelligence by implementing federated learning and adaptive deep learning inference at the edge. However, many edge applications tightly interact with the surrounding environment and are required to deliver a result (e.g., perform actuation or send a message through a 5G network) within a predefined deadline. Therefore, a key requirement in edge computing is the need to be predictable across the edge-to-cloud continuum while also efficiently utilizing system resources.
 
