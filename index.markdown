@@ -15,7 +15,7 @@ hosted-url: https://cps-iot-week2025.ics.uci.edu
 
 ## Announcement
 
-<b style="color: red;">The deadline for submission was extended to February 10th.</b>
+The workshop agenda has been uploaded!
 
 ## Call for papers
 
