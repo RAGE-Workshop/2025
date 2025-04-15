@@ -6,6 +6,9 @@ permalink: /agenda/
 
 ## Workshop program
 
+- Invited talks are expected to be 30 minutes long (25 minutes + Q&A)
+- Paper presentations are expected to be 15 minutes long (10 minutes + Q&A)
+
 <table class="program" cellspacing="2" cellpadding="2">
     <tbody>
         <tr>
@@ -40,15 +43,19 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td>10:00-10:12</td>
+            <td>10:00-10:15</td>
             <td>
                 Local Ratio based Real-time Job Offloading and Resource Allocation in Mobile Edge Computing
+                <br>
+                <span class="program-speaker">Chuanchao Gao and Arvind Easwaran</span>
             </td>
         </tr>
         <tr>
-            <td>10:15-10:27</td>
+            <td>10:15-10:30</td>
             <td>
                 NAMP: A Network-Aware Model Partitioning Framework for Constrained Devices
+                <br>
+                <span class="program-speaker">Fernando Rego, João Oliveira, Luis Almeida and Filipe Sousa</span>
             </td>
         </tr>
         <tr>
@@ -76,15 +83,19 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td>12:00-12:12</td>
+            <td>12:00-12:15</td>
             <td>
                 Surgical Software-less I/O Virtualization
+                <br>
+                <span class="program-speaker">Francesco Ciraolo, Mattia Nicolella, Patrick Carpanedo, Denis Hoornaert, Marco Caccamo and Renato Mancuso</span>
             </td>
         </tr>
         <tr>
-            <td>12:15-12:27</td>
+            <td>12:15-12:30</td>
             <td>
                 Adaptive Intrusion Mitigation in Software-Defined Vehicles Using Deep Reinforcement Learning
+                <br>
+                <span class="program-speaker">Harrison Kurunathan, Hazem Ismail Ali, Gowhar Javanmardi, Mohamed Eldefrawy, Miguel Gutiérrez Gaitán, Ramiro Robles, Patrick Yomsi and Eduardo Tovar</span>
             </td>
         </tr>
         <tr>
@@ -118,15 +129,19 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td>15:00-15:12</td>
+            <td>15:00-15:15</td>
             <td>
                 Efficient Inference of parallel partitioned hybrid-Vision Transformers
+                <br>
+                <span class="program-speaker">Oscar Artur Bernd Berg, Eiraj Saqib, Axel Jantsch, Mattias O'Nils, Silvia Krug, Irida Shallari and Isaac Sánchez Lea</span>
             </td>
         </tr>
         <tr>
-            <td>15:15-15:27</td>
+            <td>15:15-15:30</td>
             <td>
                 Selective Layer Acceleration with Data-parallel Architecture for DNN Inference Throughput Maximization
+                <br>
+                <span class="program-speaker">Sol Ahn, Jaehyuck Kim, Seungwoo Roh and Jong-Chan Kim</span>
             </td>
         </tr>
         <tr>
@@ -154,9 +169,11 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td>17:00-17:12</td>
+            <td>17:00-17:15</td>
             <td>
                 SIM-LDM: Local Dynamic Map Generation Framework using Autonomous Driving Simulator
+                <br>
+                <span class="program-speaker">Shunsuke Ito, Ryo Okamura, Chaoran Zhao and Takuya Azumi</span>
             </td>
         </tr>
         <tr>
