@@ -20,7 +20,10 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">08:45-10:30</td>
-            <td class="program-topic">Session 1</td>
+            <td class="program-topic">Session 1 - Mobile Edge Computing
+                <br>
+                <span class="program-speaker">Session Chair: Miguel Gutiérrez Gaitán</span>
+            </td>
         </tr>
         <tr>
             <td class="program-event">08:45-09:00</td>
@@ -64,7 +67,10 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">11:00-12:30</td>
-            <td class="program-topic">Session 2</td>
+            <td class="program-topic">Session 2 - Security and Reliability
+                <br>
+                <span class="program-speaker">Session Chair: Arpan Gujarati</span>
+            </td>
         </tr>
         <tr>
             <td class="program-special-event">11:00-11:30</td>
@@ -110,7 +116,10 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">14:00-15:30</td>
-            <td class="program-topic">Session 3</td>
+            <td class="program-topic">Session 3 - Networks, Stream Processing, and AI Architectures
+                <br>
+                <span class="program-speaker">Session Chair: Daniel Casini</span>
+            </td>
         </tr>
         <tr>
             <td class="program-special-event">14:00-14:30</td>
@@ -150,7 +159,10 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">16:00-17:30</td>
-            <td class="program-topic">Session 4 </td>
+            <td class="program-topic">Session 4 - Autonomous Applications
+                <br>
+                <span class="program-speaker">Session Chair: Matthias Becker</span>
+            </td>
         </tr>
         <tr>
             <td class="program-special-event">16:00-16:30</td>
