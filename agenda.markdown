@@ -34,7 +34,8 @@ permalink: /agenda/
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span>5G Connectivity roadmap and challenges for edge devices to cloud through 5G/6G channels</span>
                 <b><br>&emsp;<a href="/2025/speakers/#lee-timothy">Timothy Lee,</a></b>
-                <br>&emsp;<a href="https://www.boeing.com/">Boeing, USA </a>
+                <br>&emsp;<a href="https://www.boeing.com/">Boeing, USA </a> | 
+                <a href="https://ieeeusa.org/">IEEE-USA President-Elect </a>
             </td>
         </tr>
         <tr>
